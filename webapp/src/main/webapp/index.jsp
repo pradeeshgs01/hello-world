@@ -1,1 +1,1 @@
-<h1> Simpliv <h1>
+<h1> Welcome to Simpliv <h1>
